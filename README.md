@@ -1,5 +1,4 @@
 ---
-
 # Metadata SAAS Scripts
 
 [![License](https://img.shields.io/github/license/your-username/metadata-saas-scripts)](LICENSE)
