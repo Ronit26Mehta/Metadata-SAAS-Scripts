@@ -13,10 +13,11 @@
 - [Setup Instructions](#setup-instructions)
 - [How to Run](#how-to-run)
 - [Tools Description](#tools-description)
-- [Data Management & Security](#data-management-&-security)
+- ["Data Management & Security"](#data-management-&-security)  # Quote this to avoid YAML parsing issues
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
 
 ---
 
