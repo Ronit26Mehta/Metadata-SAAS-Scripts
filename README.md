@@ -14,7 +14,7 @@
 - [Setup Instructions](#setup-instructions)
 - [How to Run](#how-to-run)
 - [Tools Description](#tools-description)
-- [Data Management & Security](#data-management-%26-security) 
+- [Data Management and Security](#data-management-%26-security) 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
