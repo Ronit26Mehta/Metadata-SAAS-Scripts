@@ -1,5 +1,5 @@
 
-# Metadata SAAS Scripts
+# SaaS Based Metadata Extractor
 
 [![License](https://img.shields.io/github/license/your-username/metadata-saas-scripts)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/your-username/metadata-saas-scripts)
