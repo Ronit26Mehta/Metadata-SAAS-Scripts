@@ -7,13 +7,14 @@
 [![Bash](https://img.shields.io/badge/Bash-Scripts-yellowgreen)](https://www.gnu.org/software/bash/)
 
 ## Table of Contents
+
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Directory Structure](#directory-structure)
 - [Setup Instructions](#setup-instructions)
 - [How to Run](#how-to-run)
 - [Tools Description](#tools-description)
-- ["Data Management & Security"](#data-management-&-security)  # Quote this to avoid YAML parsing issues
+- [Data Management & Security](#data-management-%26-security) 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
