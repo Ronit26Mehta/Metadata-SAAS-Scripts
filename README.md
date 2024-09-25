@@ -14,13 +14,13 @@
 - [Setup Instructions](#setup-instructions)
 - [How to Run](#how-to-run)
 - [Tools Description](#tools-description)
-- [Data Management and Security](#data-management-%26-security) 
+- [Data Management and Security](#data-management--security) 
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-
 ---
+
 
 ## About the Project
 
